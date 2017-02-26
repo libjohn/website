@@ -1,0 +1,63 @@
+---
+title: "John R Little"
+output: html_document
+---
+
+```{r, include=FALSE}
+library(rmarkdown)
+```
+
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **John R Little**
+
+## My Workshops
+
+I provide a [series of workshops](workshops.html) on R and OpenRefine. Typical topics include twitter gathering, web scraping, data parsing, and data cleaning.  Each workshop is designed as a hands-on experience where you can download the practice data, the presentation slides, and workbook guides.  Accompanying recording of the workshops are available. [Details...](workshops.html)
+
+## R we having fun yet‽ 
+
+### A learning series on [R]
+
+The Data & Visualization Services Department hosts a series of campus/community-oriented, informal discussions on the R programming language. Our goals is to promote a friendly atmosphere for exploring the extensible capabilities of the R/RStudio environment. Join us most Thursdays at noon. [Details...](http://is.gd/rfun2017)
+
+## Presentations
+
+Covering topics such as API orchestration, JSON parsing, and twitter analysis. [Details...](presentations.html)
+
+## Data & Visualization Services Department
+
+My department provides [services and consulting](http://library.duke.edu/data/about) in data sources, data cleaning, analysis, data management, GIS and mapping, and Visualization.  Come crunch your data in our premier data analysis [computing lab](http://library.duke.edu/data/about/lab).  Additionally we sponsor an extensive workshop series: guides, data resources, and video recordings of our [Past Workshop](http://library.duke.edu/data/news/past-workshops) are available.  You can also RSVP for our [upcoming workshops](http://library.duke.edu/data/news).  Come see us during our [Walk-in](http://library.duke.edu/data/about/schedule) hours or contact us at askData@Duke.edu
+
+## Other
+
+My [slide-deck template](http://libjohn.github.io/slide-template/) integrates the Duke University [Color palette](https://styleguide.duke.edu/color-palette/) into the [Xaringan slide package](https://slides.yihui.name/xaringan/).  Compose your slides Rmarkdown and knit, your done.  Then go present and deliver the Duke-wow.  My next development step for this project is to further integrate the existing template into the Rstudio document template feature-set which will streamline your slide development even more.
+
+## Contact Me / Social Media  
+
+Get in touch, or schedule me for an in-person consultation.  [Details...](contact.html)
+
+
+
+&nbsp;  
+
+&nbsp;
+
+&nbsp; 
+
+---
+
+updated:  `r Sys.Date()`

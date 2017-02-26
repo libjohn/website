@@ -1,0 +1,27 @@
+name: "jrl-website"
+output_dir: "docs"
+navbar:
+  title: "JRL"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "My Workshops"
+      href: workshops.html
+    - text: "Rfun"
+      href: http://is.gd/rfun2017
+    - text: "Presentations"
+      href: presentations.html
+    - text: "My Dept"
+      href: http://library.duke.edu/data
+  right:
+#    - icon: fa-github fa-2x
+    - text: "GitHub"
+      href: http://github.com/libjohn          
+    - text: "Contact/Schedule me"
+      icon: fa-envelope-o
+      href: contact.html                      
+output:
+  html_document:
+    theme: flatly
+#    highlight: textmate
+    css: ["flatly.min.css", "duke.css"]

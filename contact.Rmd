@@ -1,0 +1,48 @@
+---
+title: "John R Little - Contact/Schedule Me"
+output: html_document
+---
+
+```{r, include=FALSE}
+library(rmarkdown)
+```
+
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **Contact / Schedule Me**
+
+* For my **in-person** clients:  [Schedule me via http://v.gd/littleconsult](http://duke.libcal.com/appointment/2695) 
+* [Old ways](http://library.duke.edu/about/directory/staff/1441) -- best option
+* [Tumblr](http://jrlittle.tumblr.com/) -- not so much for messaging, I was using this for public micro-notes
+* [Twitter](https://twitter.com/john_little) -- fallow, but it’s a way to get in touch
+* [Linkedin](https://www.linkedin.com/in/johnrobertlittle) -- o.k. I don't really use this
+* [My github](https://github.com/libjohn)
+
+[![xkcd - I have five phone numbers which should I use](http://imgs.xkcd.com/comics/phone_numbers.png)](http://xkcd.com/1789/)
+
+
+    
+
+&nbsp;  
+
+&nbsp;
+
+&nbsp; 
+
+---
+
+
+updated:  `r Sys.Date()`

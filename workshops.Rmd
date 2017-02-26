@@ -1,0 +1,44 @@
+---
+title: "John R Little -- Workshops & Training "
+output: html_document
+---
+
+```{r, include=FALSE}
+library(rmarkdown)
+```
+
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# My Workshops
+
+* [Intro2R](http://rpubs.com/libjohn/intro2r-dvs) -- A tidyverse workshop
+* [Introduction to R](r-introduction/Intro-to-R.html) -- My quick-reference to R
+* [OpenRefine](openrefine) -- A web-based, hands-on workbook supplementing the in-person workshop on data cleaning.  OpenRefine is an Open Source data science tool for data cleaning, transformation, clustering, editing, augmenting, and more
+* [Regular Expressions](regex/) -- An Introduction to Regular Expressions guide for students.  This is the presentation and hands-on exercises for the in-person workshop
+* [Twitter Stream Gathering](http://libjohn.github.io/twitter-gather/) -- Presentation and training materials for a non-programmer workshop on twitter stream gathering tools
+* [Web Scraping](https://docs.google.com/presentation/d/1QVUR3B4QDgM5fLBtFditwKyGwij0hM1qDCUL56vs34k/edit?usp=sharing) -- A Google Slides presentation and self-study workbook on how to scrape data from web sources
+
+
+
+&nbsp;  
+
+&nbsp;
+
+&nbsp; 
+
+---
+
+updated:  `r Sys.Date()`

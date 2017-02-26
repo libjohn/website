@@ -1,0 +1,40 @@
+---
+title: "John R Little -- Presentations"
+output: html_document
+---
+
+```{r, include=FALSE}
+library(rmarkdown)
+```
+
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **Presentations**
+
+* [Using R to Orchestrate APIs](rcs2017)
+* [rvest & httr for Web Scraping](rfun-scrape)
+
+
+
+&nbsp;  
+
+&nbsp;
+
+&nbsp; 
+
+---
+
+updated:  `r Sys.Date()`
