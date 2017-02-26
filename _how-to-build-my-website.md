@@ -5,6 +5,6 @@
 3. Environment | History | **Build** tab > Build Website button
 4. Manipulate some files
     - copy site_libs\bootstrap-3.3.5\flatly.min.css to /docs
-    - delete docs/site_libs[navigation | jquery | bootstrap | highlightjs]
+    - delete docs/site_libs[ jquery (!) | navigation | bootstrap | highlightjs]
     - copy /docs to libjohn.github.io repository
     - clone/commit/push libjohn.github.io

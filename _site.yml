@@ -23,5 +23,5 @@ navbar:
 output:
   html_document:
     theme: flatly
-#    highlight: textmate
+    highlight: textmate
     css: ["flatly.min.css", "duke.css"]
