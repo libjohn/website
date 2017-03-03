@@ -24,9 +24,11 @@ library(rmarkdown)
 
 # **John R Little**
 
+Data Janitor ; Data Cleaner ; Data Analysis Consultant:  providing Data Services to my Data & Visualization clients in the Duke University Libraries.
+
 ## My Workshops
 
-I provide a [series of workshops](workshops.html) on R and OpenRefine. Typical topics include twitter gathering, web scraping, data parsing, and data cleaning.  Each workshop is designed as a hands-on experience where you can download the practice data, the presentation slides, and workbook guides.  Accompanying recording of the workshops are available. [Details...](workshops.html)
+I provide a [series of workshops](workshops.html) on R and OpenRefine and Data Science tools. Topics include twitter gathering, web scraping, data parsing, and data cleaning.  Each workshop is designed as a hands-on experience where you can download the practice data, the presentation slides, and workbook guides.  Accompanying recording of the workshops are available. [Details...](workshops.html)
 
 ## R we having fun yet‽ 
 
@@ -36,7 +38,7 @@ The Data & Visualization Services Department hosts a series of campus/community-
 
 ## Presentations
 
-Covering topics such as API orchestration, JSON parsing, and twitter analysis. [Details...](presentations.html)
+Covering topics such as API orchestration, JSON parsing, flexdashboards, ggvis,  twitter data gathering, etc. [Details...](presentations.html)
 
 ## Data & Visualization Services Department
 
@@ -44,7 +46,7 @@ My department provides [services and consulting](http://library.duke.edu/data/ab
 
 ## Other
 
-My [slide-deck template](http://libjohn.github.io/slide-template/) integrates the Duke University [Color palette](https://styleguide.duke.edu/color-palette/) into the [Xaringan slide package](https://slides.yihui.name/xaringan/).  Compose your slides Rmarkdown and knit, your done.  Then go present and deliver the Duke-wow.  My next development step for this project is to further integrate the existing template into the Rstudio document template feature-set which will streamline your slide development even more.
+My [slide-deck template](http://libjohn.github.io/slide-template/) integrates the Duke University [Color palette](https://styleguide.duke.edu/color-palette/) into the [Xaringan slide package](https://slides.yihui.name/xaringan/).  Compose your slides in Rmarkdown, knit, and your done.  Now go present and deliver the Duke-wow.  My next development step for this project is to further integrate the existing template into the Rstudio document template feature-set which will streamline your slide development even more.
 
 ## Contact Me / Social Media  
 
