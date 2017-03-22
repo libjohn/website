@@ -27,7 +27,8 @@ library(rmarkdown)
 * [Using R to Orchestrate APIs](rcs2017)
 * [rvest & httr for Web Scraping](rfun-scrape)
 * [flexdashboards](flexdashboards)
-* [ggvis v ggplot2](https://libjohn.github.io/ggvis/slides.html)
+* [ggvis v ggplot2](ggvis/slides.html)
+* [Rtweet](rtweet/slides.html)
 
 
 

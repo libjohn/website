@@ -14,7 +14,8 @@ navbar:
     - text: "My Dept"
       href: http://library.duke.edu/data
   right:
-    - icon: fa-github fa-2x
+#    - icon: fa-github fa-2x
+    - icon: fa-github
 #    - text: "GitHub"
       href: http://github.com/libjohn          
     - text: "Contact/Schedule me"
