@@ -29,6 +29,7 @@ library(rmarkdown)
 * [flexdashboards](flexdashboards)
 * [ggvis v ggplot2](ggvis/slides.html)
 * [Rtweet](rtweet/slides.html)
+* [Data Science & Visualization Institute for Librarians](dsvil2017/slides.html)
 
 
 
